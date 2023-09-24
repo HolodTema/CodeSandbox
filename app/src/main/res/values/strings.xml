@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CodeSandbox</string>
+    <string name="new_project">new project</string>
+    <string name="your_projects">Your projects:</string>
+    <string name="no_projects_yet">There are no projects yet…</string>
+    <string name="enter_new_project_name">Enter the name of the new project:</string>
+    <string name="create">Create</string>
+    <string name="this_name_is_busy">Project with this name already exists!</string>
+    <string name="name_can_not_be_empty">Project name cannot be empty!</string>
+    <string name="default_new_project_name_beginning">My amazing project</string>
+</resources>
